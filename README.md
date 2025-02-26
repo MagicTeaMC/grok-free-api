@@ -1,4 +1,4 @@
-# Groq Free API
+# Grok Free API
 This is unoffical free Grok OpenAI type API.  
 **This is unstable and may against grok TOS, use at your own risk!!**
 ## setup
